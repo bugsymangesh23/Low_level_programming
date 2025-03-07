@@ -1,11 +1,11 @@
-# General Objectives for this Project
-1. How to create a Python package
-2. How to create a command interpreter in Python using the cmd module
-3. What is Unit testing and how to implement it in a large project
-4. How to serialize and deserialize a Class
-5. How to write and read a JSON file
-6. How to manage datetime
-7. What is an UUID
-8. What is *args and how to use it
-9. What is **kwargs and how to use it
-10. How to handle named arguments in a function
+# General Objectives for this Repository
+1. A refresher on programming fundamentals in c
+2. Deep dive into Data structures and algorithms using the C language.
+3. How to select appropriate data structure for your problem.
+4. Singly linked lists.
+5. Doubly linked lists.
+6. Stacks, Queues - LIFO, FIFO
+7. Hash tables
+8. Soting algorithms & Big O
+9. Binary trees
+10. Search Algorithms.
